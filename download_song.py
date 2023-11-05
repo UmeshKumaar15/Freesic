@@ -11,8 +11,8 @@ from googleapiclient.discovery import build
 download_folder = "Freesic\\songs_pic"  
 
 # Define your API key and custom search engine ID
-API_KEY = "AIzaSyCb5SQ0AIX0G2kJKmdhYnjGCBjQceaqbkc"
-CUSTOM_SEARCH_ID = "44ee7c4ccef574c60"
+API_KEY = "Add your API key"
+CUSTOM_SEARCH_ID = "Add your Custom Search ID"
 def search_youtube_song(song_name):
     videos = VideosSearch(song_name, limit=1)
     results = videos.result()
