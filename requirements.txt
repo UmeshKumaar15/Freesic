@@ -1,0 +1,6 @@
+ctypes==1.1.0
+pygame==2.0.1
+Pillow==9.0.0
+pytube==11.0.0
+youtubesearchpython==1.9.5
+google-api-python-client==2.17.0
