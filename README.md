@@ -12,7 +12,7 @@ Fork the Freesic 2023 repository on GitHub by clicking the "Fork" button at the 
 Clone your forked repository to your local machine using the following command in your terminal or command prompt:
 
 ```bash
-git clone .https://github.com/UmeshKumaar15/Freesic.git
+git clone https://github.com/UmeshKumaar15/Freesic.git
 ```
 
 ### Install Dependencies:
