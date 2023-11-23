@@ -3,6 +3,10 @@
 ## Overview
 Freesic is a desktop music player that utilizes a Tkinter-based GUI. It features robust playlist management, integrates with YouTube and Google Custom Search API for song and album cover retrieval, and offers seamless multimedia playback controls for an enhanced user experience.
 
+![image](https://github.com/UmeshKumaar15/Freesic/assets/94381340/3d82f775-735e-4fbb-8c72-8e8ade0b8ddb)
+![image](https://github.com/UmeshKumaar15/Freesic/assets/94381340/efa42321-7554-4d74-b566-e812ea86e2ce)
+
+
 ## Getting Started with Freesic:
 
 ### Fork the Repository:
