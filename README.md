@@ -23,7 +23,7 @@ git clone https://github.com/UmeshKumaar15/Freesic.git
 Navigate to the project directory and install the required dependencies from `dependency.txt` by running the following command:
 
 ```bash
-pip install -r dependencies.txt
+pip install -r requirements.txt
 ```
 
 This command installs the necessary libraries, including pytube, youtubesearchpython, googleapiclient, pygame, and PIL, which are used by Freesic 2023.
